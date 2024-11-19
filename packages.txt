@@ -1,7 +1,6 @@
-libxml2-dev
-libxslt-dev
 cmake
-libboost-all-dev
-libcurl4-openssl-dev
 libssl-dev
+libffi-dev
 build-essential
+libxml2-dev
+libxslt1-dev
