@@ -1,6 +1,5 @@
 altair==4.2.0
 attrs==22.2.0
-backports.zoneinfo==0.2.1
 beautifulsoup4==4.11.1
 bitlyshortener==0.6.4
 blinker==1.5
@@ -64,3 +63,5 @@ urllib3==1.26.14
 validators==0.20.0
 watchdog==2.2.1
 zipp==3.11.0
+libxml2-dev
+libxslt-dev
