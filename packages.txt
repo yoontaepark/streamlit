@@ -1,7 +1,6 @@
 libxml2-dev
 libxslt-dev
 cmake
-python3-distutils
 libboost-all-dev
 libcurl4-openssl-dev
 libssl-dev
