@@ -5,3 +5,4 @@ build-essential
 libxml2-dev
 libxslt1-dev
 python3-distutils
+python3-dev
