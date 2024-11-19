@@ -1,8 +1,0 @@
-build-essential
-cmake
-libssl-dev
-libffi-dev
-libxml2-dev
-libxslt1-dev
-zlib1g-dev
-libarrow-dev
